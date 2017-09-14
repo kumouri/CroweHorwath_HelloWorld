@@ -1,0 +1,7 @@
+c:\users\willa\documents\visual studio 2013\Projects\CroweHorwath_HelloWorld\CroweHorwatch_HelloWorld_Test\obj\Debug\CroweHorwath_HelloWorld_Test.csprojResolveAssemblyReference.cache
+c:\users\willa\documents\visual studio 2013\Projects\CroweHorwath_HelloWorld\CroweHorwatch_HelloWorld_Test\bin\Debug\CroweHorwatch_HelloWorld_Test.dll
+c:\users\willa\documents\visual studio 2013\Projects\CroweHorwath_HelloWorld\CroweHorwatch_HelloWorld_Test\bin\Debug\CroweHorwatch_HelloWorld_Test.pdb
+c:\users\willa\documents\visual studio 2013\Projects\CroweHorwath_HelloWorld\CroweHorwatch_HelloWorld_Test\bin\Debug\CroweHorwath_HelloWorld.exe
+c:\users\willa\documents\visual studio 2013\Projects\CroweHorwath_HelloWorld\CroweHorwatch_HelloWorld_Test\bin\Debug\CroweHorwath_HelloWorld.pdb
+c:\users\willa\documents\visual studio 2013\Projects\CroweHorwath_HelloWorld\CroweHorwatch_HelloWorld_Test\obj\Debug\CroweHorwatch_HelloWorld_Test.dll
+c:\users\willa\documents\visual studio 2013\Projects\CroweHorwath_HelloWorld\CroweHorwatch_HelloWorld_Test\obj\Debug\CroweHorwatch_HelloWorld_Test.pdb

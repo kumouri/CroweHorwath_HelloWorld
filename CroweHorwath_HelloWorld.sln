@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwath_HelloWorld", "CroweHorwath_HelloWorld\CroweHorwath_HelloWorld.csproj", "{85DF37FA-E2D9-4B20-94C7-FAF1C1A349AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHorwath_HelloWorld_Test", "CroweHorwatch_HelloWorld_Test\CroweHorwath_HelloWorld_Test.csproj", "{4F8CE9BD-45A1-4DFF-9D6E-5FEC9D786494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85DF37FA-E2D9-4B20-94C7-FAF1C1A349AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DF37FA-E2D9-4B20-94C7-FAF1C1A349AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DF37FA-E2D9-4B20-94C7-FAF1C1A349AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DF37FA-E2D9-4B20-94C7-FAF1C1A349AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8CE9BD-45A1-4DFF-9D6E-5FEC9D786494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8CE9BD-45A1-4DFF-9D6E-5FEC9D786494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8CE9BD-45A1-4DFF-9D6E-5FEC9D786494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8CE9BD-45A1-4DFF-9D6E-5FEC9D786494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
